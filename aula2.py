@@ -1,0 +1,5 @@
+#CRLF = \r\n (Windows)
+#LF = \n (Ubuntu e MacOS)
+print(21, 53, sep = "-", end = "##\n")
+print(12, 23, sep = '-', end = "\r\n" )
+print(45, 67, sep = "-", end = "##")
